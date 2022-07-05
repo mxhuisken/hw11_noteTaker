@@ -15,8 +15,16 @@
 
 ## Preview 📸
 
+<img src="./public/assets/images/nt1.png">
+<img src="./public/assets/images/nt2.png">
+
 
 ## Installation 📥
+
+- clone repository into your device
+- npm install
+- node server.js
+- Visit site 
 
 
 ## Usage 🖥
