@@ -7,7 +7,6 @@
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Links](#Links)
-- [Grade-Requirements](#Grade-Requirements)
 
 ## Description 📋
 
@@ -34,4 +33,4 @@
 ## Links 📍
 
 - GitHub: https://github.com/mxhuisken/hw11_noteTaker
-- Deployed: 
+- Deployed: https://git.heroku.com/hw11notetaker01.git
