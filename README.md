@@ -33,4 +33,4 @@
 ## Links 📍
 
 - GitHub: https://github.com/mxhuisken/hw11_noteTaker
-- Deployed: https://git.heroku.com/hw11notetaker01.git
+- Deployed: https://hw11notetaker01.herokuapp.com
